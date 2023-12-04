@@ -8,7 +8,9 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 My CV in [pdf](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/blob/main/Manusha_V.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
 ## Table of Contents
+- [About](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#about)
 ## Education
 New Mexico State University, Las Cruces: 
 Master of Science - MS, Industrial Engineering,
@@ -17,7 +19,6 @@ Jan 2021 - May 2023
 Jawaharlal Nehru Technological University, Kakinada:
 Bachelor's degree, Computer Science and Engineering,
 2016 - 2020
-
 
 ## Contacts
 - LinkedIn: [@manushavemulapalli](https://www.linkedin.com/in/manusha-vemulapalli-950b73223/) 

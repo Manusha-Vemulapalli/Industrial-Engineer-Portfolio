@@ -12,6 +12,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#about)
 - [Education](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Education)
+- [Certificates](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Certificates)
+- [Contact](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Contact) 
 ## Education
 New Mexico State University, Las Cruces: 
 Master of Science - MS, Industrial Engineering,

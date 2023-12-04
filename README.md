@@ -13,7 +13,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#about)
 - [Education](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Education)
 - [Certificates](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Certificates)
-- [Contact](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Contact) 
+- [Contact](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#Contact)
+  
 ## Education
 New Mexico State University, Las Cruces: 
 Master of Science - MS, Industrial Engineering,
@@ -22,6 +23,10 @@ Jan 2021 - May 2023
 Jawaharlal Nehru Technological University, Kakinada:
 Bachelor's degree, Computer Science and Engineering,
 2016 - 2020
+
+## Certificates
+The best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
+- [Introduction to Data Science](
 
 ## Contacts
 - LinkedIn: [@manushavemulapalli](https://www.linkedin.com/in/manusha-vemulapalli-950b73223/) 

@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Manusha Vemulapalli - Data Analyst Portfolio
 ## About
 Hi, I'm Manusha! I have an analytical background in Industrial Engineering and currently, I hold a Master's degree in Industrial Engineering, with a minor in Computer Science. I have developed a strong foundation in computer science and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst. 
 

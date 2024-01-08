@@ -1,6 +1,6 @@
 # Manusha Vemulapalli - Data Analyst Portfolio
 ## About
-Hi, I'm Manusha! I have an analytical background in Data Science and currently, I hold a Master's degree in Industrial Engineering, with a minor in Computer Science and a Bachelor's degree in Computer Science. I have developed a strong foundation in computer science and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst. 
+Hi, I'm Manusha Vemulapalli! I have an analytical background in Data Science and currently, I hold a Master's degree in Industrial Engineering, with a minor in Computer Science and a Bachelor's degree in Computer Science. I have developed a strong foundation in computer science and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
@@ -17,11 +17,11 @@ This is a repository to showcase skills, share projects, and track my progress i
   
 ## Education
 New Mexico State University, Las Cruces: 
-Master of Science - MS, Industrial Engineering,
+Master of Science - MS, Industrial Engineering, minor in Computer Science,
 Jan 2021 - May 2023
 
 Jawaharlal Nehru Technological University, Kakinada:
-Bachelor's degree, Computer Science and Engineering,
+BS, Computer Science and Engineering,
 2016 - 2020
 
 ## Certificates

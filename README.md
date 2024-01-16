@@ -1,13 +1,14 @@
 # Manusha Vemulapalli - Data Analyst Portfolio
 ## About
-Hi, I'm Manusha Vemulapalli!I am an enthusiastic and detail-oriented Industrial Engineer with a unique skill set that combines a Master's degree in Industrial Engineering, a minor in Computer Science, and a Bachelor's degree in Computer Science & Engineering. My academic journey has equipped me with a robust foundation in both industrial engineering principles and computer science, fostering a passion for utilizing data to extract meaningful insights.
+Hi. I'm Manusha Vemulapalli.I am a proactive and results-driven Industrial Engineer with a strong foundation in data analysis. Armed with a Master's degree in Industrial Engineering, a minor in computer science, and a Bachelor's degree in Computer Science, I possess a keen interest in leveraging data-driven insights to enhance operational efficiency. My academic background is complemented by practical skills in data analysis, providing a well-rounded approach to problem-solving.
 
-Eager to transition into the dynamic field of data science, I am seeking opportunities as an entry-level Industrial Engineer. Throughout my studies, I have cultivated strong technical and analytical skills, particularly in the realm of Statistical Data analysis. I possess a keen eye for identifying patterns and trends within complex datasets. My academic pursuits have not only deepened my understanding of industrial engineering but have also exposed me to laboratory techniques, data management, and statistical analysis. I am confident that these skills, coupled with my passion for leveraging data, will serve as valuable assets in contributing to the field of industrial Engineering & data analytics.
+My coursework has equipped me with a solid understanding of industrial engineering principles, encompassing areas such as process optimization, quality control, and systems engineering. Additionally, I have honed my analytical abilities through specialized coursework in data analysis, allowing me to interpret and derive valuable insights from complex datasets.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+During my academic journey, I completed projects where I applied statistical analysis to optimize manufacturing processes and reduce inefficiencies. These experiences not only sharpened my technical skills but also instilled in me a proactive mindset towards continuous improvement. As I embark on my career, I am enthusiastic about integrating data analysis techniques into industrial engineering practices to enhance decision-making and drive operational excellence. I am confident that my unique blend of industrial engineering and data analysis skills will contribute positively.
+
 My CV in [pdf](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/blob/main/Manusha_V.pdf).
 
-This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects, and track my progress in Industrial Engineering/Data Analytics related topics.
 
 ## Table of Contents
 - [About](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/edit/main/README.md#about)

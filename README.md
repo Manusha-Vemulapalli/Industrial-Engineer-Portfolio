@@ -1,4 +1,4 @@
-# Manusha Vemulapalli - Industrial Engineer Portfolio
+# Manusha Vemulapalli - My Portfolio
 ## About
 Hi. I'm Manusha Vemulapalli.I am a proactive and results-driven Industrial Engineer with a strong foundation in data analysis. Armed with a Master's degree in Industrial Engineering, a minor in computer science, and a Bachelor's degree in Computer Science, I possess a keen interest in leveraging data-driven insights to enhance operational efficiency. My academic background is complemented by practical skills in data analysis, providing a well-rounded approach to problem-solving.
 

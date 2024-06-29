@@ -6,7 +6,7 @@ My coursework has equipped me with a solid understanding of industrial engineeri
 
 During my academic journey, I completed projects where I applied statistical analysis to optimize manufacturing processes and reduce inefficiencies. These experiences not only sharpened my technical skills but also instilled in me a proactive mindset towards continuous improvement. As I embark on my career, I am enthusiastic about integrating data analysis techniques into industrial engineering practices to enhance decision-making and drive operational excellence. I am confident that my unique blend of industrial engineering and data analysis skills will contribute positively.
 
-My CV in [pdf](https://github.com/Manusha-Vemulapalli/Data-Analyst-Portfolio/blob/main/Manusha_V.pdf).
+My CV in [pdf].
 
 This is a repository to showcase skills, share projects, and track my progress in Industrial Engineering/Data Analytics related topics.
 

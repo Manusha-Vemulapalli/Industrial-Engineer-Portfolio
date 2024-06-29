@@ -27,8 +27,10 @@ BS, Computer Science and Engineering,
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
-- [Introduction to Data Science](
-
+- [Introduction to Data Science](https://www.credly.com/badges/2959c009-ea5f-4340-9a4b-1a7d45ce8a1d/linked_in_profile)
+- [Data Analytics Essentials](https://www.credly.com/badges/6ac4e082-825b-42ee-9205-2237dec74aaa/linked_in_profile)
+- [Goldman Sachs Excel Skills for Business Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/eLeZHcwX7CqLhhps7_Goldman%20Sachs_xzxEwG3LKEXKpD7xX_1704500152303_completion_certificate.pdf)
+- [Project Management by Great Learning]
 ## Contacts
 - LinkedIn: [@manushavemulapalli](https://www.linkedin.com/in/manusha-vemulapalli-950b73223/) 
 - Email: manusha.vemulapalli@yahoo.com
